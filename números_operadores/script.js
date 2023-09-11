@@ -43,3 +43,11 @@ console.log(x);
 var idade = "28";
 var somaIdade = 5;
 console.log(+idade + somaIdade);
+
+var idade = "28";
++idade;
+-idade;
+console.log(+idade + 5);
+
+var possuiFaculdade = true;
+console.log(+possuiFaculdade);
